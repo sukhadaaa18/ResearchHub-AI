@@ -6,14 +6,6 @@ Built with React, TypeScript, FastAPI, PostgreSQL, and Groq’s Llama 3.3 70B mo
 
 ---
 
-## Problem Statement
-
-With the rapid growth of academic publications, researchers often struggle to efficiently search, organize, and extract insights from research papers. Manual workflows are time-consuming and inefficient.
-
-ResearchHub AI addresses this challenge by integrating AI-driven contextual assistance and semantic search into a unified research management system.
-
----
-
 ## Features
 
 - **Intelligent Paper Discovery**  
